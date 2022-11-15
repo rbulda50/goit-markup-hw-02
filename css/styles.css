@@ -73,7 +73,8 @@ body {
     background-color: #4D5AE5;
     cursor: pointer;
 
-    font-weight: inherit;
+    font-family: inherit;
+    font-weight: 600;
     font-size: 16px;
     line-height: 1.2;
     align-items: center;
@@ -117,7 +118,8 @@ body {
     background-color: #E7E9FC;
     cursor: pointer;
 
-    font-weight: 600;
+    font-family: inherit;
+    font-weight: inherit;
     font-size: 16px;
     line-height: 1.5;
     align-items: center;
